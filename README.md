@@ -2,7 +2,7 @@
 
 A basic example website that uses [GatsbyJS](https://www.gatsbyjs.org/) with [Netlify Functions](https://www.netlify.com/docs/functions/)
 
-A demo is currently available at [whats-the-local-weather.netlify.com](https://whats-the-local-weather.netlify.com/)
+This website can currently be demoed at [whats-the-local-weather.netlify.com](https://whats-the-local-weather.netlify.com/)
 
 ### Description
 
@@ -78,7 +78,7 @@ REVERSE_GEOCODE_API_KEY="your-api-key-here"
 Any improvements or tips are very much welcomed. Feel free to submit a PR or open an issue!
 
 ## License
-[MIT](/license) which you can learn more about [here](https://tldrlegal.com/license/mit-license)
+[MIT](/LICENSE) which you can learn more about [here](https://tldrlegal.com/license/mit-license)
 
 ## Credits and references
 
